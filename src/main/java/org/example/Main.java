@@ -1,5 +1,4 @@
 package org.example;
-
 import java.util.Scanner;
 
 public class Main {
@@ -29,8 +28,5 @@ public class Main {
                     System.out.println("Error!! " + e.getMessage());
                 }
         }
-
-        System.out.println("test the workflow");
     }
-
 }
