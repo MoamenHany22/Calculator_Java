@@ -26,4 +26,5 @@ public class CalculatorTest {
         Calculator calc = new Calculator();
         assertEquals(4,calc.divide(16,4),"16/4 should be 4");
     }
+
 }
