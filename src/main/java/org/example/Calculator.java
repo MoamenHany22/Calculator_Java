@@ -2,7 +2,7 @@ package org.example;
 
 public class Calculator {
     public  int add (int x, int y){
-        return x+y;
+        return 2*x+1;
     }
 
     public  int subtract (int x, int y){
